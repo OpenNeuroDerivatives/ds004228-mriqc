@@ -1,0 +1,36 @@
+[0;34mREMORA Notification: [0;34m  GPU monitoring is active, but not on this node type. [0m 
+Launcher: Setup complete.
+
+------------- SUMMARY ---------------
+   Number of hosts:    1
+   Working directory:  /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004228-mriqc
+   Processes per host: 1
+   Total processes:    1
+   Total jobs:         1
+   Scheduling method:  dynamic
+
+-------------------------------------
+Launcher: Starting parallel tasks...
+Launcher: Task 0 running job 1 on c208-028.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004228-mriqc/.reproman/jobs/local/20230424-175130-e616/runscript 0 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004228-mriqc/.reproman/jobs/local/20230424-175130-e616/stdout.0 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004228-mriqc/.reproman/jobs/local/20230424-175130-e616/stderr.0)
+Launcher: Job 1 completed in 1536 seconds.
+Launcher: Task 0 done. Exiting.
+Launcher: Done. Job exited without errors
+
+
+=============================== REMORA SUMMARY ===============================
+ Max Virtual  Memory Per Node :    21.47 GB
+ Max Physical Memory Per Node :    12.38 GB
+ Available Memory at time 0.0 :   177.56 GB
+ Total Elapsed Time           :  0d 0h 26m  0s 705ms
+------------------------------------------------------------------------------
+ Max IO Load / home1          :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch1       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch2       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch3       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / work2          :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+==============================================================================
+ Sampling Period              : 10 seconds
+ Report Directory             : R=/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004228-mriqc/remora_5419021
+ Google Plots HTML Index Page : $R/remora_summary.html
+==============================================================================
+
